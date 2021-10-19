@@ -3,7 +3,8 @@
 Updater plugin for Autoplay Media Studio 8.5.3.0 applications.<br/>
 
 # Quick Start
-
+penne rigate
 # Notes
-
+penne rigatex2
 # Information / Features
+penne rigatex3
