@@ -3,4 +3,4 @@
 Updater plugin for Autoplay Media Studio 8.5.3.0 applications.<br/>
 
 # Information
-To update the .exe and .cdd rename your new files with the name of your application.exe.new / your application.cdd.new, when the decompression is complete a BAT file will be executed that will replace the old files with the new ones.
+To update the .exe and .cdd rename your new files with the name of your application name.exe.new / your application name.cdd.new, when the decompression is complete a BAT file will be executed that will replace the old files with the new ones.
