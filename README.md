@@ -2,9 +2,5 @@
 
 Updater plugin for Autoplay Media Studio 8.5.3.0 applications.<br/>
 
-# Quick Start
-penne rigate
-# Notes
-penne rigatex2
 # Information / Features
-penne rigatex3
+To update the .exe and .cdd rename your new files with the name of your application.exe.new / your application.cdd.new, when the decompression is complete a BAT file will be executed that will replace the old files with the new ones.
