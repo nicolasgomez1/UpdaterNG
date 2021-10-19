@@ -4,8 +4,8 @@ Updater plugin for Autoplay Media Studio 8.5.3.0 applications.<br/>
 
 # Note
 __Important__<br/>
-* This plugin is designed for a 'Hard Drive Folder' type application.
-* When compiling the applications you have to check the box 'Rename resource files'. that will make the __.cdd__ be established in the root folder.
+* This plugin is designed for a '__Hard Drive Folder__' type application.
+* When compiling the applications you have to check the box '__Rename resource files__'. that will make the __.cdd__ be established in the root folder.
 
 # Information
 To update the .exe and .cdd rename your new files with the name of your application name.exe.new / your application name.cdd.new, when the decompression is complete a BAT file will be executed that will replace the old files with the new ones.
