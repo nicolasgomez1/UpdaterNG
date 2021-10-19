@@ -21,3 +21,5 @@ local Filename = (String.Left(_SourceFilename, String.Length(_SourceFilename)-4)
 			del "Updater.bat"
 		]], false);
 ```
+__Important__
+This plugin is designed for a 'Hard Drive Folder' type application.
