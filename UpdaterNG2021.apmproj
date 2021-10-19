@@ -1,0 +1,141 @@
+<!-- Warning : Do not edit this document manually -->
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Project>
+    <ProjectInfo>
+        <Type>0</Type>
+        <ID>{51d53edb-54e7-44ec-8ef6-2c9a6e967fca}</ID>
+        <Environment>1</Environment>
+    </ProjectInfo>
+    <ProductInfo>
+        <Created>
+            <Name>AmsPluginMaker 1.1</Name>
+            <Version>1.1.0.0</Version>
+            <Date>19/10/2021 16:17:17</Date>
+            <Type>Commercial Version</Type>
+            <ID>{7a2e86e3-5079-44d5-8208-2aa1334ccc56}</ID>
+            <MajorVersion>1</MajorVersion>
+            <MinorVersion>1</MinorVersion>
+        </Created>
+        <Modified>
+            <Name>AmsPluginMaker 1.1</Name>
+            <Version>1.1.0.0</Version>
+            <Date>19/10/2021 17:21:21</Date>
+            <Type>Commercial Version</Type>
+            <ID>{7a2e86e3-5079-44d5-8208-2aa1334ccc56}</ID>
+            <MajorVersion>1</MajorVersion>
+            <MinorVersion>1</MinorVersion>
+        </Modified>
+    </ProductInfo>
+    <Scripts>
+        <Script Name="Lua" ScrollPosition="0" CursorPosition="3311">
+            <Source>VXBkYXRlck5HID0gKHt9KTsNCg0KVXBkYXRlck5HLlVwZGF0ZURvd25sb2FkID0gZnVuY3Rpb24oVVJMKQ0KCWxvY2FsIGZ1bmN0aW9uIERvd25sb2FkQ2hlY2tNZXRob2QoVXJsLCBQYXRoKQ0KCQlpZihTdHJpbmcuTGVmdChVcmwsIDUpID09ICJodHRwcyIpdGhlbg0KCQkJSFRUUC5Eb3dubG9hZFNlY3VyZShVcmwsIFBhdGgsIE1PREVfQklOQVJZLCAxLCA0NDMsIG5pbCwgbmlsLCBVcGRhdGVyTkcuRG93bmxvYWRDYWxsYmFjayk7DQoJCWVsc2UNCgkJCUhUVFAuRG93bmxvYWQoVXJsLCBQYXRoLCBNT0RFX0JJTkFSWSwgMSwgODAsIG5pbCwgbmlsLCBVcGRhdGVyTkcuRG93bmxvYWRDYWxsYmFjayk7DQoJCWVuZA0KCWVuZA0KCQ0KCWlmKFVSTCA9PSAiIiBvciBVUkwgPT0gbmlsKXRoZW4NCgkJcmV0dXJuIGZhbHNlLCAiRXJyb3IsIFlvdSBtdXN0IGRlZmluZSBsaW5rIHRvIHBhdGNoLiI7DQoJZWxzZQ0KCQlpZihIVFRQLlRlc3RDb25uZWN0aW9uKFVSTCwgMjAsIDgwLCBuaWwsIG5pbCkgPT0gZmFsc2UpdGhlbg0KCQkJcmV0dXJuIGZhbHNlLCAiRXJyb3IsIFVuYWJsZSB0byBjb25uZWN0IHRvIHBhdGNoIGZpbGUuIjsNCgkJZWxzZQ0KCQkJRG93bmxvYWRDaGVja01ldGhvZChVUkwsIF9Tb3VyY2VGb2xkZXIuLiJcXHVwZGF0ZS56aXAiKTsNCgkJCXJldHVybiB0cnVlLCAiVXBkYXRlIERvd25sb2FkZWQuIjsNCgkJZW5kDQoJZW5kDQplbmQNCg0KVXBkYXRlck5HLkFwcGx5VXBkYXRlID0gZnVuY3Rpb24oKQ0KCVppcC5FeHRyYWN0KF9Tb3VyY2VGb2xkZXIuLiJcXHVwZGF0ZS56aXAiLCB7IiouKiJ9LCBfU291cmNlRm9sZGVyLCB0cnVlLCB0cnVlLCAiIiwgWklQX09WRVJXUklURV9BTFdBWVMsIFVwZGF0ZXJORy5aaXBFeHRyYWN0Q2FsbGJhY2spOw0KCWxvY2FsIFppcEVycm9yID0gQXBwbGljYXRpb24uR2V0TGFzdEVycm9yKCk7DQoJaWYoWmlwRXJyb3Igfj0gMCl0aGVuDQoJCXJldHVybiBmYWxzZSwgIkVycm9yLCAiLi50YmxFcnJvck1lc3NhZ2VzW1ppcEVycm9yXTsNCgllbHNlDQoJCUZpbGUuRGVsZXRlKF9Tb3VyY2VGb2xkZXIuLiJcXHVwZGF0ZS56aXAiLCBmYWxzZSwgZmFsc2UsIGZhbHNlLCBuaWwpOw0KCQlsb2NhbCBGaWxlbmFtZSA9IChTdHJpbmcuTGVmdChfU291cmNlRmlsZW5hbWUsIFN0cmluZy5MZW5ndGgoX1NvdXJjZUZpbGVuYW1lKS00KSk7DQoJCVRleHRGaWxlLldyaXRlRnJvbVN0cmluZyhfU291cmNlRm9sZGVyLi4iXFxVcGRhdGVyLmJhdCIsIFtbDQoJCQk6UmVwZWF0DQoJCQlkZWwgIl1dLi5GaWxlbmFtZS4uW1suZXhlIg0KCQkJaWYgZXhpc3QgIl1dLi5GaWxlbmFtZS4uW1suZXhlIiBnb3RvIFJlcGVhdA0KCQkJbW92ZSAiXV0uLkZpbGVuYW1lLi5bWy5leGUubmV3IiAiXV0uLkZpbGVuYW1lLi5bWy5leGUiDQoJCQkNCgkJCTpSZXBlYXQNCgkJCWRlbCAiXV0uLkZpbGVuYW1lLi5bWy5jZGQiDQoJCQlpZiBleGlzdCAiXV0uLkZpbGVuYW1lLi5bWy5jZGQiIGdvdG8gUmVwZWF0DQoJCQltb3ZlICJdXS4uRmlsZW5hbWUuLltbLmNkZC5uZXciICJdXS4uRmlsZW5hbWUuLltbLmNkZCINCgkJCQ0KCQkJc3RhcnQgL05PUk1BTCBdXS4uRmlsZW5hbWUuLiIuZXhlIi4uW1sNCgkJCWRlbCAiVXBkYXRlci5iYXQiDQoJCV1dLCBmYWxzZSk7DQoJCQ0KCQlGaWxlLlJ1bihfU291cmNlRm9sZGVyLi4iXFxVcGRhdGVyLmJhdCIsICIiLCAiIiwgU1dfU0hPV05PUk1BTCwgZmFsc2UpOw0KCQlXaW5kb3cuQ2xvc2UoQXBwbGljYXRpb24uR2V0V25kSGFuZGxlKCksIENMT1NFV05EX1RFUk1JTkFURSk7CQ0KCWVuZA0KZW5kDQoNClVwZGF0ZXJORy5DaGVja1VwZGF0ZXMgPSBmdW5jdGlvbihEYXRhTGluaywgTG9jYWxWZXJzaW9uKQ0KCWxvY2FsIFJlYWR5VG9DaGVjayA9IChmYWxzZSk7DQoJDQoJbG9jYWwgZnVuY3Rpb24gRGVsaW1pdGVkVG9UYWJsZShTdHJpbmcsIERlbGltaXRlcikNCgkJaWYgbm90KERlbGltaXRlciBvciAjRGVsaW1pdGVyIDwgMSl0aGVuDQoJCQlyZXR1cm4gbmlsOw0KCQllbmQNCgkNCgkJbG9jYWwgdGJsID0gKHt9KTsNCgkJbG9jYWwgc2EgPSAoU3RyaW5nKTsNCgkJbG9jYWwgc0QgPSAoIiIpOw0KCQlsb2NhbCBuUCA9IHN0cmluZy5maW5kKHNhLCBEZWxpbWl0ZXIsIDEsIHRydWUpOw0KCQ0KCQl3aGlsZShuUClkbw0KCQkJc0QgPSBzdHJpbmcuc3ViKHNhLCAxLCBuUC0xKTsNCgkJCXRhYmxlLmluc2VydCh0YmwsICN0YmwrMSwgc0QpOw0KCQkJc2EgPSBzdHJpbmcuc3ViKHNhLCBuUCsxLCAtMSk7DQoJCQluUCA9IHN0cmluZy5maW5kKHNhLCBEZWxpbWl0ZXIsIDEsIHRydWUpOw0KCQllbmQNCgkNCgkJaWYoc2Egfj0gIiIpdGhlbg0KCQkJVGFibGUuSW5zZXJ0KHRibCwgI3RibCsxLCBzYSkNCgkJZW5kDQoJDQoJCXJldHVybiB0Ymw7DQoJZW5kDQoJDQoJbG9jYWwgZnVuY3Rpb24gU3VibWl0Q2hlY2tNZXRob2QoVXJsKQ0KCQlpZihTdHJpbmcuTGVmdChVcmwsIDUpID09ICJodHRwcyIpdGhlbg0KCQkJcmV0dXJuIEhUVFAuU3VibWl0U2VjdXJlKFVybCwge30sIFNVQk1JVFdFQl9HRVQsIDIwLCA0NDMsIG5pbCwgbmlsKTsNCgkJZWxzZQ0KCQkJcmV0dXJuIEhUVFAuU3VibWl0KFVybCwge30sIFNVQk1JVFdFQl9HRVQsIDIwLCA4MCwgbmlsLCBuaWwpOw0KCQllbmQNCgllbmQNCgkNCglpZihEYXRhTGluayA9PSAiIiBvciBEYXRhTGluayA9PSBuaWwpdGhlbg0KCQlyZXR1cm4gZmFsc2UsICJFcnJvciwgWW91IG11c3QgZGVmaW5lIGxpbmsgdG8gaW5mb3JtYXRpb24gZmlsZS4iOw0KCWVsc2UNCgkJUmVhZHlUb0NoZWNrID0gKHRydWUpOw0KCWVuZA0KCQ0KCWlmKExvY2FsVmVyc2lvbiA9PSAiIiBvciBMb2NhbFZlcnNpb24gPT0gbmlsKXRoZW4NCgkJcmV0dXJuIGZhbHNlLCAiRXJyb3IsIFlvdSBtdXN0IGRlZmluZSBsb2NhbCB2ZXJzaW9uLiI7DQoJZWxzZQ0KCQlSZWFkeVRvQ2hlY2sgPSAodHJ1ZSk7DQoJZW5kDQoJDQoJaWYoUmVhZHlUb0NoZWNrID09IGZhbHNlKXRoZW4NCgkJcmV0dXJuIGZhbHNlLCAiRXJyb3IsIGNhbm5vdCBjb250aW51ZS4iOw0KCWVsc2UNCgkJaWYoSFRUUC5UZXN0Q29ubmVjdGlvbihEYXRhTGluaywgMjAsIDgwLCBuaWwsIG5pbCkgPT0gZmFsc2UpdGhlbg0KCQkJcmV0dXJuIGZhbHNlLCAiRXJyb3IsIFVuYWJsZSB0byBjb25uZWN0IHRvIGluZm9ybWF0aW9uIGZpbGUuIjsNCgkJZWxzZQ0KCQkJbG9jYWwgVXBkYXRlckRhdGEgPSBTdWJtaXRDaGVja01ldGhvZChEYXRhTGluayk7DQoJCQlpZihVcGRhdGVyRGF0YSA9PSAiIil0aGVuDQoJCQkJcmV0dXJuIGZhbHNlLCAiRXJyb3IsIEluZm9ybWF0aW9uIGZpbGUgaXMgZW1wdHkuIjsNCgkJCWVsc2UNCgkJCQlsb2NhbCBWZXJzaW9uCT0gKG5pbCk7DQoJCQkJbG9jYWwgUGF0Y2hMaW5rID0gKG5pbCk7DQoJCQkJDQoJCQkJZm9yIF8sIExpbmUgaW4gcGFpcnMoRGVsaW1pdGVkVG9UYWJsZShVcGRhdGVyRGF0YSwgIlxuIikpIGRvDQoJCQkJCWxvY2FsIFBhcnNlIAk9IERlbGltaXRlZFRvVGFibGUoTGluZSwgIj0iKTsNCgkJCQkJbG9jYWwgVmFyaWFibGUJPSAoUGFyc2VbMV0pOw0KCQkJCQlsb2NhbCBWYWx1ZSAJPSAoUGFyc2VbMl0pOw0KCQkJCQkNCgkJCQkJaWYoVmFyaWFibGUgPT0gIlZlcnNpb24iKXRoZW4NCgkJCQkJCVZlcnNpb24gPSAoVmFsdWUpOw0KCQkJCQllbmQNCgkJCQkJDQoJCQkJCWlmKFZhcmlhYmxlID09ICJQYXRjaCIpdGhlbg0KCQkJCQkJUGF0Y2hMaW5rID0gKFZhbHVlKTsNCgkJCQkJZW5kDQoJCQkJZW5kDQoNCgkJCQlpZihWZXJzaW9uID09ICJcciIgb3IgVmVyc2lvbiA9PSBuaWwpdGhlbg0KCQkJCQlyZXR1cm4gZmFsc2UsICJFcnJvciwgVmFyaWFibGUgJ1ZlcnNpb24nIGlzIG1pc3NpbmcgaW4gaW5mbyBmaWxlIG9yIHZhcmlhYmxlIGlzIGVtcHR5LiI7DQoJCQkJZW5kDQoJCQkJDQoJCQkJaWYoUGF0Y2hMaW5rID09ICJcciIgb3IgUGF0Y2hMaW5rID09IG5pbCl0aGVuDQoJCQkJCXJldHVybiBmYWxzZSwgIkVycm9yLCBWYXJpYWJsZSAnUGF0Y2gnIGlzIG1pc3NpbmcgaW4gaW5mbyBmaWxlIG9yIHZhcmlhYmxlIGlzIGVtcHR5LiI7DQoJCQkJZW5kDQoJCQkJDQoJCQkJaWYoVmVyc2lvbiB+PSBuaWwgYW5kIFBhdGNoTGluayB+PSBuaWwpdGhlbg0KCQkJCQlpZih0b251bWJlcihMb2NhbFZlcnNpb24pIDwgdG9udW1iZXIoVmVyc2lvbikpdGhlbg0KCQkJCQkJcmV0dXJuIHRydWUsIFZlcnNpb24sIFBhdGNoTGluazsNCgkJCQkJZWxzZWlmKHRvbnVtYmVyKExvY2FsVmVyc2lvbikgPT0gdG9udW1iZXIoVmVyc2lvbikpdGhlbg0KCQkJCQkJcmV0dXJuIGZhbHNlLCAiQXBwbGljYXRpb24gVXBkYXRlZCI7DQoJCQkJCWVuZA0KCQkJCWVsc2UNCgkJCQkJcmV0dXJuIG5pbCwgIkVycm9yLCBjYW5ub3QgY29udGludWUuIjsNCgkJCQllbmQNCgkJCWVuZA0KCQllbmQNCgllbmQNCmVuZA==</Source>
+            <FoldLines />
+            <BookMarks />
+        </Script>
+    </Scripts>
+    <Modules />
+    <Dependencies />
+    <Resources />
+    <Properties>
+        <Property Name="PluginName">UpdaterNG</Property>
+        <Property Name="HelpFileAuthoring">1</Property>
+        <Property Name="PluginVersion">1.0.0.0</Property>
+        <Property Name="AuthorInfo">https://amsspecialist.com/</Property>
+        <Property Name="ApplyCompressionDebug">0</Property>
+        <Property Name="CompressionLevelDebug">10</Property>
+        <Property Name="AttachDebuggerOnDebug">1</Property>
+        <Property Name="MakeHelpOnDebug">1</Property>
+        <Property Name="InstallOnDebug">1</Property>
+        <Property Name="ApplyLicenceCheckOnDebug">0</Property>
+        <Property Name="InserFirstSerialOnDebug">0</Property>
+        <Property Name="ApplyCompressionPublish">0</Property>
+        <Property Name="CompressionLevelPublish">10</Property>
+        <Property Name="MakeHelpOnPublish">1</Property>
+        <Property Name="InstallOnPublish">1</Property>
+        <Property Name="InserFirstSerialOnPublish">0</Property>
+        <Property Name="ActiveProjectSettingsTab">0</Property>
+    </Properties>
+    <Intellisense Expanded="1">
+        <HelpIndex>
+            <Description>anniversary gift for https://amsspecialist.com/</Description>
+            <Licence>FREE AS U MOM BRUH</Licence>
+            <Author>NicolasG</Author>
+            <Website>https://github.com/nicolasgomez1/</Website>
+            <Email></Email>
+            <Copyright></Copyright>
+            <Requirements></Requirements>
+            <InstallNotes></InstallNotes>
+        </HelpIndex>
+        <ActionGroups />
+        <Actions Expanded="1">
+            <Action GUID="{210c7238-c287-45d7-bf79-2ea0d4e2b9fa}" Group="" WizardPage="0">
+                <Name>ApplyUpdate</Name>
+                <Description>function in charge of unzipping the ZIP file, creating the BAT file and executing it.</Description>
+                <Arguments />
+                <Remarks>Extract Callback function: UpdaterNG.ZipExtractCallback(Same as Zip.Extract).&#x0D;&#x0A;&#x0D;&#x0A;IMPORTANT:&#x0D;&#x0A;This plugin is designed for a &apos;Hard Drive Folder&apos; type application. Both the exe file and the cdd file will be deposited in the root (Like _SourceFolder).</Remarks>
+                <Notes />
+                <Examples />
+                <Return>
+                    <Type>4</Type>
+                    <Description>If an error occurs during the decompression of the ZIP file, it will return false(boolean), error code(string).&#x0D;&#x0A;&#x0D;&#x0A;If the update is unzipped correctly, a file (Updater.bat) will be created in the root, it will be executed and the application will close.</Description>
+                    <Enumeration />
+                </Return>
+            </Action>
+            <Action GUID="{c32401f3-d8b6-4f5c-8b7b-770537e0226f}" Group="" WizardPage="1">
+                <Name>CheckUpdates</Name>
+                <Description>Compare Local vs Online version.</Description>
+                <Arguments>
+                    <Argument GUID="{892888b1-5dc9-4ef1-8e6b-a5b29433ea80}">
+                        <Name>Data File Url</Name>
+                        <Description>Link to the file with the necessary information to carry out the verification.</Description>
+                        <DefaultValue></DefaultValue>
+                        <Data></Data>
+                        <Type>0</Type>
+                        <SubType>0</SubType>
+                        <Enumeration />
+                    </Argument>
+                    <Argument GUID="{3b5324c6-10fc-46bb-a9cb-c43ce1b2c566}">
+                        <Name>Application Version</Name>
+                        <Description>Local Version of your Application.</Description>
+                        <DefaultValue>0</DefaultValue>
+                        <Data></Data>
+                        <Type>1</Type>
+                        <SubType>0</SubType>
+                        <Enumeration />
+                    </Argument>
+                </Arguments>
+                <Remarks>File structure:&#x0D;&#x0A;Version=&#x0D;&#x0A;Patch=&#x0D;&#x0A;&#x0D;&#x0A;Example:&#x0D;&#x0A;Version=1&#x0D;&#x0A;Path=http://myhost.com/newversion.zip</Remarks>
+                <Notes />
+                <Examples />
+                <Return>
+                    <Type>4</Type>
+                    <Description>If the version of the online file is greater than the local version of your application, it will return true(boolean), New Version(string), ZIP File Url(string).&#x0D;&#x0A;&#x0D;&#x0A;If an error occurs during the process, it will return false and a string with error.</Description>
+                    <Enumeration />
+                </Return>
+            </Action>
+            <Action GUID="{dac2a778-b1d4-4ddc-8597-cc1d6747fb09}" Group="" WizardPage="0">
+                <Name>UpdateDownload</Name>
+                <Description>Download update and make a ZIP in Source Folder.</Description>
+                <Arguments>
+                    <Argument GUID="{2c09aee8-104c-42c2-b38f-8b3a3fb78b91}">
+                        <Name>Zip File URL</Name>
+                        <Description>Url to Patch zip file.</Description>
+                        <DefaultValue />
+                        <Data />
+                        <Type>0</Type>
+                        <SubType>0</SubType>
+                        <Enumeration />
+                    </Argument>
+                </Arguments>
+                <Remarks>Download Callback function: UpdaterNG.DownloadCallback(Same as http.download).</Remarks>
+                <Notes />
+                <Examples />
+                <Return>
+                    <Type>4</Type>
+                    <Description>Return boolean and string.&#x0D;&#x0A;&#x0D;&#x0A;if the download is complete it returns true(boolean), message(string).&#x0D;&#x0A;&#x0D;&#x0A;If an error occurs during the download of the update, it will return false(boolean), error code(string).</Description>
+                    <Enumeration />
+                </Return>
+            </Action>
+        </Actions>
+    </Intellisense>
+</Project>
