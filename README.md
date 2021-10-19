@@ -8,7 +8,7 @@ __Important__<br/>
 * When compiling the applications you have to check the box '__Rename resource files__'. that will make the __.cdd__ be established in the root folder.
 
 # Information
-To update the __exe__ and __cdd__ rename your new files with the name of your application name.exe.new / your application name.cdd.new, when the decompression is complete a BAT file will be executed that will replace the old files with the new ones.
+To update the __.exe__ and __.cdd__ rename your new files with the name of your application name.exe.new / your application name.cdd.new, when the decompression is complete a BAT file will be executed that will replace the old files with the new ones.
 ```
 local Filename = (String.Left(_SourceFilename, String.Length(_SourceFilename)-4));
 		TextFile.WriteFromString(_SourceFolder.."\\Updater.bat", [[
