@@ -1,6 +1,6 @@
 # UpdaterNG <img align="left" src="https://user-images.githubusercontent.com/5092697/136836589-b655f88e-f67e-433d-bc2a-12c0534e05d9.png" width="100px"></img>
 
-Updater plugin for Autoplay Media Studio 8.5.3.0 applications.<br/>
+Updater plugin for <a href="https://www.indigorose.com/autoplay-media-studio/">Autoplay Media Studio 8.5.3.0</a> applications.<br/>
 
 # Note
 __Important__<br/>
